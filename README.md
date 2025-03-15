@@ -1,2 +1,1 @@
-# GUI-by-Pyside6
-GUI by Pyside6
+# 数模国赛： 基于NSGA-II遗传算法的随机动态多目标作物种植策略优化 
